@@ -15,3 +15,10 @@ Puedes entrenarlo en colab con:
 Subiendo todos los archivos ".py" al apartado de archivos*
 
 Tiempo aproximado de entrenamiento: 7 horas con una GPU A100
+
+#TRANSFORMER ENCODER - DECODER
+
+NO USAMOS SWIGLU NI ARQUITECTURAS MODERNAS.
+
+NOS BASAMOS EN EL SIGUIENTE PAPER: https://arxiv.org/abs/1706.03762
+
